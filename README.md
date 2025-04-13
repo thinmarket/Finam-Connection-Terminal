@@ -28,7 +28,8 @@
 
 Перед запуском откройте скрипт:
 
-generate_key.py
+**generate_key.py**
+
 Запустите и Скопируйте сгенерированный ключ
 
 Вставьте его в файлы terminal_connector_j.py и terminal_connector_t.py в нужнуе место.
