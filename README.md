@@ -71,7 +71,6 @@
 
 ⚠️ Важно: Не забудьте заменить стандартный ключ шифрования на собственный!
 
-### 
-# Основные зависимости для работы terminal_connector_j.py и terminal_connector_t.py
+### *Основные зависимости для работы terminal_connector_j.py и terminal_connector_t.py*
 PyQt5==5.15.9             # Для графического интерфейса
 cryptography==41.0.7       # Для шифрования паролей (Fernet)
