@@ -1,4 +1,4 @@
-# Finam Trading Terminal
+# Finam-Connection-Terminal
 
 Графический интерфейс для работы с TRANSAQ Connector через официальную DLL (`txmlconnector64.dll`) от Финам.
 
