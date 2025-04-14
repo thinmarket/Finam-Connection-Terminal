@@ -81,4 +81,4 @@ PyQt5==5.15.9             # Для графического интерфейса
 
 cryptography==41.0.7       # Для шифрования паролей (Fernet)
 
-Видео про программы https://youtu.be/7iEggXmUTNw 
+Видео про программы https://youtu.be/7iEggXmUTNw?feature=shared 
